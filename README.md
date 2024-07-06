@@ -1,4 +1,7 @@
+![Ethar](https://media.licdn.com/dms/image/D4D03AQFaKEkW8yN-zQ/profile-displayphoto-shrink_200_200/0/1689366199990?e=2147483647&v=beta&t=H3QN_EO1k87EANramDXBdjLTNW8zsMWTWy0KMXu4z6o)
+
 # It is test project. 100% working
+## Developer- Mohammed Ethar
 
 ### Use case
 ```Use case
@@ -14,7 +17,7 @@ MyName::introduce();
         "socialethar/mylibrary": "^1.0"
     },
 ```
-## composer-raw-project\vendor\socialethar\mylibrary
+## composer-raw-project\vendor\socialethar\mylibrary  ->Library root directory
 ### composer-raw-project\vendor\composer->autoload_psr4.php
 ```
 return array(
