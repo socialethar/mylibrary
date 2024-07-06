@@ -1,11 +1,14 @@
 # It is test project.
 
+### Use case
 ```Use case
 require_once "vendor/autoload.php";
 use MyLibrary\MyName;
 MyName::introduce();
 ```
 
+
+### Application main composer.json
 ```Application composer.json
 "require": {
         "socialethar/mylibrary": "^1.0"
