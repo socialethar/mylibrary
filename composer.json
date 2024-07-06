@@ -1,0 +1,11 @@
+{
+    "name": "socialethar/mylibrary",
+    "description": "A simple library that introduces a name.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "MyLibrary\\": "src/"
+        }
+    },
+    "require": {}
+}
